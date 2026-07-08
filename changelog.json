@@ -1,52 +1,62 @@
 [
     {
-        "date": "09:35 06.01.2025",
-        "pt": "Interface redesenhada com layout mais moderno, animações refinadas e navegação otimizada. Driver em kernel atualizado para oferecer maior estabilidade durante a inicialização.",
-        "en": "Interface redesigned with a modern layout, refined animations, and optimized navigation. Kernel driver updated for improved startup stability."
+        "date": "21:44 11.04.2025",
+        "pt": "Nova interface com visual renovado, mais rápida e fácil de usar. Melhorias gerais na estabilidade do sistema.",
+        "en": "New interface with a refreshed look, faster navigation, and easier usability. Overall system stability improved."
     },
     {
-        "date": "16:10 28.01.2025",
-        "pt": "Pipeline interno reestruturado para reduzir o tempo de carregamento. Melhor gerenciamento dos módulos principais e menor consumo de memória.",
-        "en": "Internal pipeline restructured to reduce loading time. Improved core module management and lower memory usage."
+        "date": "15:15 01.05.2025",
+        "pt": "Compatibilidade ampliada e diversas melhorias no funcionamento geral. Processo de inicialização mais rápido.",
+        "en": "Expanded compatibility and several overall improvements. Faster startup process."
     },
     {
-        "date": "13:45 17.02.2025",
-        "pt": "Arquitetura do driver refinada para aumentar a confiabilidade em diferentes versões do Windows. Correções aplicadas ao sistema de inicialização.",
-        "en": "Driver architecture refined to improve reliability across different Windows versions. Startup system fixes applied."
+        "date": "10:30 02.07.2025",
+        "pt": "Redução no consumo de recursos e melhor desempenho durante o uso. Interface mais fluida.",
+        "en": "Reduced resource usage and better performance during use. Smoother interface."
     },
     {
-        "date": "20:30 08.03.2025",
-        "pt": "Renderização da interface otimizada, proporcionando transições mais suaves e melhor desempenho durante a navegação.",
-        "en": "Interface rendering optimized, providing smoother transitions and better navigation performance."
+        "date": "23:59 01.01.2025",
+        "pt": "Correções de estabilidade e melhorias na confiabilidade. Pequenos problemas de inicialização foram resolvidos.",
+        "en": "Stability fixes and reliability improvements. Minor startup issues have been resolved."
     },
     {
-        "date": "11:15 02.04.2025",
-        "pt": "Sistema de configuração reconstruído com carregamento instantâneo de perfis e sincronização aprimorada entre os componentes.",
-        "en": "Configuration system rebuilt with instant profile loading and improved synchronization between components."
+        "date": "17:45 15.05.2025",
+        "pt": "Tempo de carregamento reduzido e experiência de uso aprimorada. Ajustes gerais na interface.",
+        "en": "Reduced loading time and improved user experience. General interface refinements."
     },
     {
-        "date": "18:25 19.05.2025",
-        "pt": "Melhorias no gerenciamento de memória do driver em kernel, reduzindo o uso de recursos e aumentando a estabilidade em longas sessões.",
-        "en": "Improvements to kernel driver memory management, reducing resource usage and increasing stability during extended sessions."
+        "date": "20:30 24.06.2025",
+        "pt": "Novo sistema de perfis com troca mais rápida e gerenciamento simplificado.",
+        "en": "New profile system with faster switching and simplified management."
     },
     {
-        "date": "15:50 11.06.2025",
-        "pt": "Sistema de logs reformulado para facilitar diagnósticos. Correções gerais de estabilidade e otimizações na arquitetura interna.",
-        "en": "Logging system redesigned for easier diagnostics. General stability fixes and internal architecture optimizations."
+        "date": "14:00 03.07.2025",
+        "pt": "Melhorias de compatibilidade, desempenho e estabilidade em diferentes versões do sistema.",
+        "en": "Improved compatibility, performance, and stability across different system versions."
     },
     {
-        "date": "22:40 29.06.2025",
-        "pt": "Compatibilidade expandida com novas versões do sistema operacional. Driver e interface receberam ajustes de desempenho e confiabilidade.",
-        "en": "Expanded compatibility with newer operating system versions. Driver and interface received performance and reliability improvements."
+        "date": "09:20 10.04.2025",
+        "pt": "Carregamento mais rápido e resposta imediata ao abrir as funções do programa.",
+        "en": "Faster loading and quicker response when opening program features."
     },
     {
-        "date": "14:20 04.07.2025",
-        "pt": "Novo sistema de cache implementado para acelerar o carregamento da interface e reduzir operações redundantes.",
-        "en": "New cache system implemented to speed up interface loading and reduce redundant operations."
+        "date": "18:00 08.05.2025",
+        "pt": "Interface redesenhada com novo visual, animações suaves e navegação mais intuitiva.",
+        "en": "Redesigned interface with a new look, smooth animations, and more intuitive navigation."
     },
     {
-        "date": "19:10 06.07.2025",
-        "pt": "Otimizações gerais no núcleo da aplicação, com melhorias na comunicação entre o driver, os módulos internos e a interface gráfica.",
-        "en": "General core optimizations with improved communication between the driver, internal modules, and the graphical interface."
+        "date": "22:15 20.06.2025",
+        "pt": "Correções de bugs, melhorias de estabilidade e ajustes para uma experiência mais consistente.",
+        "en": "Bug fixes, stability improvements, and adjustments for a more consistent experience."
+    },
+    {
+        "date": "11:50 01.07.2025",
+        "pt": "Configurações reorganizadas para facilitar o uso e acelerar o carregamento dos perfis.",
+        "en": "Settings reorganized for easier use and faster profile loading."
+    },
+    {
+        "date": "16:40 12.04.2025",
+        "pt": "Melhorias gerais de desempenho, menor uso de recursos e interface ainda mais responsiva.",
+        "en": "General performance improvements, lower resource usage, and an even more responsive interface."
     }
 ]
