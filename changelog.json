@@ -1,42 +1,62 @@
 [
     {
-        "date": "09:10 08.01.2025",
-        "pt": "Módulo principal do spoofer reestruturado. Camada de comunicação com o driver em kernel otimizada para reduzir o tempo de inicialização.",
-        "en": "Core spoofer module restructured. Kernel driver communication layer optimized to reduce startup time."
+        "date": "21:44 11.04.2025",
+        "pt": "Interface completamente reconstruída com novo sistema de navegação. Driver em kernel otimizado para uma inicialização mais rápida e maior estabilidade.",
+        "en": "Interface completely rebuilt with a new navigation system. Kernel driver optimized for faster startup and improved stability."
     },
     {
-        "date": "18:40 26.02.2025",
-        "pt": "Driver em kernel atualizado com melhorias de estabilidade, gerenciamento de memória refinado e tratamento aprimorado de exceções.",
-        "en": "Kernel driver updated with stability improvements, refined memory management, and enhanced exception handling."
+        "date": "15:15 01.05.2025",
+        "pt": "Arquitetura do driver refinada para melhorar a comunicação com os módulos internos. Gerenciamento de perfis redesenhado.",
+        "en": "Driver architecture refined to improve communication with internal modules. Profile management redesigned."
     },
     {
-        "date": "14:20 19.03.2025",
-        "pt": "Interface completamente redesenhada, com navegação mais fluida, novas animações e menor tempo de resposta entre abas.",
-        "en": "User interface fully redesigned with smoother navigation, new animations, and faster tab response."
+        "date": "10:30 02.07.2025",
+        "pt": "Consumo de memória reduzido e otimizações aplicadas ao driver em kernel. Interface mais responsiva em sistemas de baixo desempenho.",
+        "en": "Reduced memory usage and kernel driver optimizations. More responsive interface on low-end systems."
     },
     {
-        "date": "20:15 11.04.2025",
-        "pt": "Sistema de perfis reconstruído para simplificar o gerenciamento de configurações. Processo de carregamento otimizado.",
-        "en": "Profile system rebuilt to simplify configuration management. Loading process optimized."
+        "date": "23:59 01.01.2025",
+        "pt": "Sistema de inicialização reconstruído. Melhor tratamento de falhas e maior confiabilidade durante o carregamento do driver.",
+        "en": "Startup system rebuilt. Improved failure handling and increased reliability during driver loading."
     },
     {
-        "date": "12:35 03.05.2025",
-        "pt": "Fluxo de inicialização do spoofer refinado e sincronização entre interface e componentes internos aprimorada.",
-        "en": "Spoofer startup flow refined and synchronization between the interface and internal components improved."
+        "date": "17:45 15.05.2025",
+        "pt": "Sincronização entre interface, driver e módulos internos aprimorada. Correções de estabilidade em execuções consecutivas.",
+        "en": "Synchronization between the interface, driver, and internal modules improved. Stability fixes for consecutive executions."
     },
     {
-        "date": "16:50 15.06.2025",
-        "pt": "Melhorias gerais na arquitetura do kernel e redução do consumo de memória durante a execução prolongada.",
-        "en": "General improvements to the kernel architecture and reduced memory usage during extended operation."
+        "date": "20:30 24.06.2025",
+        "pt": "Novo gerenciador de sessões implementado com carregamento mais rápido das configurações e otimizações gerais de desempenho.",
+        "en": "Implemented a new session manager with faster configuration loading and overall performance optimizations."
     },
     {
-        "date": "22:05 28.06.2025",
-        "pt": "Sistema de logs reescrito para facilitar diagnósticos. Correções de estabilidade aplicadas à interface e aos módulos internos.",
-        "en": "Logging system rewritten for easier diagnostics. Stability fixes applied to the interface and internal modules."
+        "date": "14:00 03.07.2025",
+        "pt": "Compatibilidade expandida com diferentes versões do sistema. Driver em kernel recebeu melhorias de desempenho e estabilidade.",
+        "en": "Expanded compatibility across different system versions. Kernel driver received performance and stability improvements."
     },
     {
-        "date": "11:45 04.07.2025",
-        "pt": "Compatibilidade geral aprimorada, ajustes visuais na interface e otimizações de desempenho em todos os componentes.",
-        "en": "Improved overall compatibility, visual interface refinements, and performance optimizations across all components."
+        "date": "09:20 10.04.2025",
+        "pt": "Componentes internos reorganizados e pipeline de carregamento otimizado. Redução do tempo de resposta da interface.",
+        "en": "Internal components reorganized and loading pipeline optimized. Reduced interface response time."
+    },
+    {
+        "date": "18:00 08.05.2025",
+        "pt": "Interface modernizada com novas animações, transições suaves e renderização otimizada para maior fluidez.",
+        "en": "Modernized interface with new animations, smooth transitions, and optimized rendering for improved fluidity."
+    },
+    {
+        "date": "22:15 20.06.2025",
+        "pt": "Sistema de logs reescrito para facilitar diagnósticos. Driver e interface receberam diversas correções de estabilidade.",
+        "en": "Logging system rewritten for easier diagnostics. Driver and interface received multiple stability fixes."
+    },
+    {
+        "date": "11:50 01.07.2025",
+        "pt": "Configurações reorganizadas com carregamento instantâneo de perfis. Melhorias na comunicação entre interface e núcleo da aplicação.",
+        "en": "Settings reorganized with instant profile loading. Improved communication between the interface and the application's core."
+    },
+    {
+        "date": "16:40 12.04.2025",
+        "pt": "Arquitetura principal atualizada com foco em desempenho, menor consumo de recursos e maior estabilidade do driver em kernel.",
+        "en": "Core architecture updated with a focus on performance, lower resource usage, and improved kernel driver stability."
     }
 ]
