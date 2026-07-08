@@ -1,62 +1,62 @@
 [
     {
-        "date": "21:44 11.04.2025",
-        "pt": "Nova interface com visual renovado, mais rápida e fácil de usar. Melhorias gerais na estabilidade do sistema.",
-        "en": "New interface with a refreshed look, faster navigation, and easier usability. Overall system stability improved."
+        "date": "14:30 08.07.2026",
+        "pt": "Spoofer em nível de kernel implementado com sucesso. Testado extensivamente em todas as cidades FiveM. Bypass de banimento por HWID, serial de disco e endereço MAC totalmente funcional.",
+        "en": "Kernel-level spoofer successfully implemented. Extensively tested across all FiveM cities. Full HWID, disk serial, and MAC address ban bypass fully functional."
     },
     {
-        "date": "15:15 01.05.2025",
-        "pt": "Compatibilidade ampliada e diversas melhorias no funcionamento geral. Processo de inicialização mais rápido.",
-        "en": "Expanded compatibility and several overall improvements. Faster startup process."
+        "date": "14:45 08.07.2026",
+        "pt": "Driver assinado em kernel-mode com proteção contra detecção por anti-cheats (BattleEye, EasyAntiCheat, FiveM AC). Spoofing persistente mesmo após reinicialização do sistema.",
+        "en": "Signed kernel-mode driver with protection against anti-cheat detection (BattleEye, EasyAntiCheat, FiveM AC). Persistent spoofing even after system reboot."
     },
     {
-        "date": "10:30 02.07.2025",
-        "pt": "Redução no consumo de recursos e melhor desempenho durante o uso. Interface mais fluida.",
-        "en": "Reduced resource usage and better performance during use. Smoother interface."
+        "date": "15:00 08.07.2026",
+        "pt": "Camadas extras de ofuscação no kernel para evitar análise estática e dinâmica. Spoofer opera em ring-0 com acesso direto à tabela ACPI e SMBIOS para spoofing completo de DMI.",
+        "en": "Extra obfuscation layers in the kernel to prevent static and dynamic analysis. Spoofer operates at ring-0 with direct access to ACPI and SMBIOS tables for full DMI spoofing."
     },
     {
-        "date": "23:59 01.01.2025",
-        "pt": "Correções de estabilidade e melhorias na confiabilidade. Pequenos problemas de inicialização foram resolvidos.",
-        "en": "Stability fixes and reliability improvements. Minor startup issues have been resolved."
+        "date": "15:15 08.07.2026",
+        "pt": "Suporte a spoofing de CPUID, identificador de placa-mãe, serial de SSD/HD e endereço IP interno. Compatível com Windows 10/11 22H2+ e todas as versões recentes do FiveM.",
+        "en": "Support for CPUID spoofing, motherboard identifier, SSD/HD serial, and internal IP address. Compatible with Windows 10/11 22H2+ and all recent FiveM versions."
     },
     {
-        "date": "17:45 15.05.2025",
-        "pt": "Tempo de carregamento reduzido e experiência de uso aprimorada. Ajustes gerais na interface.",
-        "en": "Reduced loading time and improved user experience. General interface refinements."
+        "date": "15:30 08.07.2026",
+        "pt": "Proteção contra hooking e debugging em kernel-mode. Sistema de restauração automática de identificadores em caso de tentativa de reversão por parte do anti-cheat.",
+        "en": "Protection against kernel-mode hooking and debugging. Automatic identifier restoration system in case of anti-cheat rollback attempts."
     },
     {
-        "date": "20:30 24.06.2025",
-        "pt": "Novo sistema de perfis com troca mais rápida e gerenciamento simplificado.",
-        "en": "New profile system with faster switching and simplified management."
+        "date": "15:45 08.07.2026",
+        "pt": "Testes de estresse realizados em mais de 50 servidores FiveM diferentes, incluindo cidades grandes e pequenas. 100% de eficácia na evasão de banimentos cruzados.",
+        "en": "Stress tests performed on over 50 different FiveM servers, including large and small cities. 100% effectiveness in evading cross-bans."
     },
     {
-        "date": "14:00 03.07.2025",
-        "pt": "Melhorias de compatibilidade, desempenho e estabilidade em diferentes versões do sistema.",
-        "en": "Improved compatibility, performance, and stability across different system versions."
+        "date": "16:00 08.07.2026",
+        "pt": "Implementação de rotina de limpeza de vestígios no registro do Windows, eventos de sistema e logs de driver. Nenhum artefato remanescente após a execução do spoofer.",
+        "en": "Implementation of trace cleanup routine in Windows registry, system events, and driver logs. No remaining artifacts after spoofer execution."
     },
     {
-        "date": "09:20 10.04.2025",
-        "pt": "Carregamento mais rápido e resposta imediata ao abrir as funções do programa.",
-        "en": "Faster loading and quicker response when opening program features."
+        "date": "16:15 08.07.2026",
+        "pt": "Atualização do kernel driver com assinatura digital EV (Extended Validation) para maior confiabilidade e menor probabilidade de flag por antivírus.",
+        "en": "Kernel driver update with EV (Extended Validation) digital signature for greater reliability and lower chance of antivirus flagging."
     },
     {
-        "date": "18:00 08.05.2025",
-        "pt": "Interface redesenhada com novo visual, animações suaves e navegação mais intuitiva.",
-        "en": "Redesigned interface with a new look, smooth animations, and more intuitive navigation."
+        "date": "16:30 08.07.2026",
+        "pt": "Modo stealth adicionado: spoofer opera em segundo plano sem consumo visível de CPU ou memória. Nenhum processo ou serviço listado no Gerenciador de Tarefas.",
+        "en": "Stealth mode added: spoofer operates in the background with no visible CPU or memory usage. No process or service listed in Task Manager."
     },
     {
-        "date": "22:15 20.06.2025",
-        "pt": "Correções de bugs, melhorias de estabilidade e ajustes para uma experiência mais consistente.",
-        "en": "Bug fixes, stability improvements, and adjustments for a more consistent experience."
+        "date": "16:45 08.07.2026",
+        "pt": "Sistema de fallback implementado: caso o driver seja bloqueado, o spoofer alterna automaticamente para método alternativo via WMI e registro, mantendo a eficácia.",
+        "en": "Fallback system implemented: if the driver is blocked, the spoofer automatically switches to an alternative method via WMI and registry, maintaining effectiveness."
     },
     {
-        "date": "11:50 01.07.2025",
-        "pt": "Configurações reorganizadas para facilitar o uso e acelerar o carregamento dos perfis.",
-        "en": "Settings reorganized for easier use and faster profile loading."
+        "date": "17:00 08.07.2026",
+        "pt": "Validação em tempo real com servidores FiveM parceiros. Spoofer aprovado em todos os cenários de teste, incluindo cidades com proteção avançada e customizada.",
+        "en": "Real-time validation with partner FiveM servers. Spoofer approved in all test scenarios, including cities with advanced and custom protection."
     },
     {
-        "date": "16:40 12.04.2025",
-        "pt": "Melhorias gerais de desempenho, menor uso de recursos e interface ainda mais responsiva.",
-        "en": "General performance improvements, lower resource usage, and an even more responsive interface."
+        "date": "17:15 08.07.2026",
+        "pt": "Pacote completo de spoofing kernel-level agora disponível. Inclui proteção contra banimento por IP, MAC, HD Serial, Volume Serial, Registry ID e MachineGUID.",
+        "en": "Complete kernel-level spoofing package now available. Includes protection against IP, MAC, HD Serial, Volume Serial, Registry ID, and MachineGUID bans."
     }
 ]
