@@ -1,0 +1,62 @@
+[
+    {
+        "date": "21:44 11.04.2025",
+        "pt": "Sistema de spoof reconstruído com inicialização otimizada. Tempo de aplicação reduzido e estabilidade geral aprimorada.",
+        "en": "Spoof system rebuilt with optimized initialization. Faster application time and improved overall stability."
+    },
+    {
+        "date": "15:15 01.05.2025",
+        "pt": "Compatibilidade expandida para novos títulos. Rotinas internas refinadas e gerenciamento de perfis otimizado.",
+        "en": "Expanded compatibility for new titles. Refined internal routines and optimized profile management."
+    },
+    {
+        "date": "10:30 02.07.2025",
+        "pt": "Uso de memória reduzido e processo de carregamento acelerado. Melhor desempenho em sistemas de baixo consumo.",
+        "en": "Reduced memory usage and accelerated loading process. Improved performance on low-resource systems."
+    },
+    {
+        "date": "23:59 01.01.2025",
+        "pt": "Mecanismo de verificação reformulado para aumentar a confiabilidade. Corrigidas falhas ocasionais durante a inicialização.",
+        "en": "Verification engine reworked for improved reliability. Fixed occasional startup failures."
+    },
+    {
+        "date": "17:45 15.05.2025",
+        "pt": "Sequência de inicialização otimizada e sincronização de módulos aprimorada. Melhor estabilidade em execuções consecutivas.",
+        "en": "Optimized startup sequence and improved module synchronization. Better stability across consecutive runs."
+    },
+    {
+        "date": "20:30 24.06.2025",
+        "pt": "Novo sistema de gerenciamento de sessões implementado. Redução no tempo de preparação antes do uso.",
+        "en": "Implemented a new session management system. Reduced preparation time before use."
+    },
+    {
+        "date": "14:00 03.07.2025",
+        "pt": "Compatibilidade geral revisada e melhorias na confiabilidade do processo. Ajustes de desempenho em segundo plano.",
+        "en": "General compatibility reviewed and process reliability improved. Background performance adjustments."
+    },
+    {
+        "date": "09:20 10.04.2025",
+        "pt": "Componentes internos reorganizados para maior eficiência. Tempo de resposta reduzido durante a execução.",
+        "en": "Internal components reorganized for greater efficiency. Reduced response time during execution."
+    },
+    {
+        "date": "18:00 08.05.2025",
+        "pt": "Interface atualizada com navegação mais fluida. Correções de tradução e pequenos ajustes visuais.",
+        "en": "Updated interface with smoother navigation. Fixed localization issues and minor visual improvements."
+    },
+    {
+        "date": "22:15 20.06.2025",
+        "pt": "Sistema de logs otimizado para facilitar diagnósticos. Melhor tratamento de erros inesperados.",
+        "en": "Optimized logging system for easier diagnostics. Improved handling of unexpected errors."
+    },
+    {
+        "date": "11:50 01.07.2025",
+        "pt": "Configurações padronizadas e carregamento de perfis acelerado. Melhorias gerais de estabilidade.",
+        "en": "Standardized configuration settings and faster profile loading. General stability improvements."
+    },
+    {
+        "date": "16:40 12.04.2025",
+        "pt": "Atualizações na arquitetura principal e otimizações de desempenho. Menor consumo de recursos durante a execução.",
+        "en": "Core architecture updated with performance optimizations. Lower resource usage during execution."
+    }
+]
