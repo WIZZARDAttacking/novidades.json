@@ -1,62 +1,62 @@
 [
     {
+        "game": "dota",
         "date": "09:00 08.07.2026",
-        "pt": "Implementação de hook profundo no kernel para interceptação de chamadas NtQuerySystemInformation. Spoofer agora oculta identificadores diretamente na fonte do sistema.",
-        "en": "Deep kernel hook implementation for NtQuerySystemInformation interception. Spoofer now hides identifiers directly at the system source."
+        "pt": "Implementação de hook profundo no kernel para interceptação de chamadas NtQuerySystemInformation.",
+        "en": "Deep kernel hook implementation for NtQuerySystemInformation interception."
     },
     {
+        "game": "dota",
         "date": "09:20 08.07.2026",
-        "pt": "Adicionado suporte a spoofing de TPM (Trusted Platform Module) 2.0. Compatibilidade total com sistemas que utilizam medição de integridade por hardware.",
-        "en": "Added TPM (Trusted Platform Module) 2.0 spoofing support. Full compatibility with systems using hardware integrity measurement."
+        "pt": "Adicionado suporte a spoofing de TPM 2.0.",
+        "en": "Added TPM 2.0 spoofing support."
     },
     {
-        "date": "09:40 08.07.2026",
-        "pt": "Nova camada de proteção anti-dump para o driver kernel. Qualquer tentativa de extração do binário resulta em corrupção automática dos dados.",
-        "en": "New anti-dump protection layer for the kernel driver. Any extraction attempt results in automatic data corruption."
-    },
-    {
+        "game": "apex",
         "date": "10:00 08.07.2026",
-        "pt": "Sistema de randomização de identificadores a cada inicialização do FiveM. Cada sessão gera um novo conjunto único de hardware IDs.",
-        "en": "Identifier randomization system on every FiveM startup. Each session generates a unique new set of hardware IDs."
+        "pt": "Sistema de randomização de identificadores no FiveM.",
+        "en": "Identifier randomization system on FiveM."
     },
     {
+        "game": "apex",
         "date": "10:20 08.07.2026",
-        "pt": "Integração com hypervisor-level para bypass de detecção por VBS (Virtualization-Based Security) e HVCI (Hypervisor-Protected Code Integrity).",
-        "en": "Hypervisor-level integration for bypassing VBS (Virtualization-Based Security) and HVCI (Hypervisor-Protected Code Integrity) detection."
+        "pt": "Integração hypervisor-level para bypass de VBS/HVCI.",
+        "en": "Hypervisor-level integration for VBS/HVCI bypass."
     },
     {
+        "game": "valorant",
         "date": "10:40 08.07.2026",
-        "pt": "Nova técnica de spoofing de firmware UEFI/BIOS. Spoofer agora altera identificadores armazenados em NVRAM para maior profundidade de ocultação.",
-        "en": "New UEFI/BIOS firmware spoofing technique. Spoofer now alters identifiers stored in NVRAM for deeper concealment."
+        "pt": "Nova técnica de spoofing de firmware UEFI/BIOS.",
+        "en": "New UEFI/BIOS firmware spoofing technique."
     },
     {
+        "game": "valorant",
         "date": "11:00 08.07.2026",
-        "pt": "Adicionado suporte a spoofing de serial de monitor/display via EDID. Mais uma camada de proteção contra banimentos avançados.",
-        "en": "Added monitor/display serial spoofing via EDID. Another protection layer against advanced bans."
+        "pt": "Spoofing de serial de monitor via EDID.",
+        "en": "Monitor serial spoofing via EDID."
     },
     {
+        "game": "fortnite",
         "date": "11:20 08.07.2026",
-        "pt": "Sistema de resposta a eventos do PatchGuard (KPP - Kernel Patch Protection). Spoofer desativa temporariamente verificações do Windows durante sua execução.",
-        "en": "PatchGuard (KPP - Kernel Patch Protection) event response system. Spoofer temporarily disables Windows checks during its execution."
+        "pt": "Sistema de resposta a eventos do PatchGuard.",
+        "en": "PatchGuard event response system."
     },
     {
+        "game": "fortnite",
         "date": "11:40 08.07.2026",
-        "pt": "Nova rotina de limpeza de páginas de memória não paginada (Non-Paged Pool). Remove completamente qualquer vestígio do spoofer após o uso.",
-        "en": "New Non-Paged Pool memory page cleanup routine. Completely removes any spoofer traces after use."
+        "pt": "Rotina de limpeza de Non-Paged Pool.",
+        "en": "Non-Paged Pool cleanup routine."
     },
     {
+        "game": "warface",
         "date": "12:00 08.07.2026",
-        "pt": "Implementação de anti-debug usando detecção de breakpoints de hardware (DR0-DR7) e mecanismos de timing para identificar análise em tempo real.",
-        "en": "Anti-debug implementation using hardware breakpoint detection (DR0-DR7) and timing mechanisms to identify real-time analysis."
+        "pt": "Implementação de anti-debug com detecção de breakpoints DR0-DR7.",
+        "en": "Anti-debug implementation with DR0-DR7 breakpoint detection."
     },
     {
+        "game": "warface",
         "date": "12:20 08.07.2026",
-        "pt": "Suporte a múltiplos perfis de spoofing pré-configurados para diferentes cidades FiveM. Troca automática entre perfis baseado no servidor conectado.",
-        "en": "Support for multiple pre-configured spoofing profiles for different FiveM cities. Automatic profile switching based on the connected server."
-    },
-    {
-        "date": "12:40 08.07.2026",
-        "pt": "Pacote completo validado em ambiente de produção com mais de 500 horas de teste ininterrupto. Zero detecções registradas em todos os servidores testados.",
-        "en": "Complete package validated in production environment with over 500 hours of uninterrupted testing. Zero detections recorded across all tested servers."
+        "pt": "Suporte a múltiplos perfis de spoofing pré-configurados.",
+        "en": "Multiple pre-configured spoofing profiles support."
     }
 ]
