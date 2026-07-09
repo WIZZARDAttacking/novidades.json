@@ -1,7 +1,7 @@
 [
     {
         "game": "dota",
-        "date": "09:00 08.07.2026",
+        "date": "10:00 08.07.2026",
         "pt": "Implementação de hook profundo no kernel para interceptação de chamadas NtQuerySystemInformation.",
         "en": "Deep kernel hook implementation for NtQuerySystemInformation interception."
     },
